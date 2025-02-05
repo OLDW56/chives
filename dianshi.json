@@ -11,7 +11,6 @@
 //{"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_xzso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{"key":"PanSso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-
 {"key":"PanSearch","name":"😹盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
 {"key": "夸搜", "name": "🐟夸搜┃夸父", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"pan": "quark", "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "YiSo", "name": "😹易搜┃阿狸", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
@@ -19,7 +18,6 @@
 {"key": "抠搜", "name": "💓抠抠┃搜搜", "type": 3, "api": "csp_KkSs", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 
 {"key": "csp_Duopan","name": "🖍︎┃蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key": "Duopan2"},"jar":"./lib/jinenyy.jar"},
-
 
 {"key": "Lib", "name": "🌟立播┃秒播", "type": 3, "api": "csp_Libvio", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "文采", "name": "💮文采┃秒播", "type": 3, "api": "csp_Jpys", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1},
