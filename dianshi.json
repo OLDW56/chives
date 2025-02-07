@@ -19,6 +19,9 @@
 
 {"key": "csp_Duopan","name": "🖍︎┃蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key": "Duopan2"},"jar":"./lib/jinenyy.jar"},
 
+
+{ "key": "hipy_guazi", "name": "瓜子┃影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0, "ext": "./瓜子.js" },
+{ "key": "cnflix", "name": "CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
 {"key": "Lib", "name": "🌟立播┃秒播", "type": 3, "api": "csp_Libvio", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "文采", "name": "💮文采┃秒播", "type": 3, "api": "csp_Jpys", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1},
 {"key": "糯米", "name": "🍓糯米┃秒播", "type": 3, "api": "csp_Nmyswv", "timeout": 15, "searchable": 1, "quickSearch": 1, "changeable": 1},
