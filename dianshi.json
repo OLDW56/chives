@@ -1,5 +1,5 @@
 {
-"spider": "./fty.jar;md5;0849d9b214667fd4d4af3ddb9c060d74",
+"spider": "./fty.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3",
 
 "sites":[
 
@@ -7,7 +7,8 @@
 
 {"key":"玩偶","name":"💓玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"filterable":1,"changeable":1,"ext":{"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.net/","danMu": "弹"}},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
-{"key":"UC","name":"💓优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","pturl":"http://tv.91muou.icu/|http://54271.fun/|http://mo.muouso.fun/"}},
+{"key":"神车","name":"🚎神车┃秒播","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},  
 {"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_xzso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"PanSso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
@@ -16,7 +17,7 @@
 {"key": "YiSo", "name": "😹易搜┃阿狸", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "米搜", "name": "🦋米盘┃夸父", "type": 3, "api": "csp_MIPanSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "抠搜", "name": "💓抠抠┃搜搜", "type": 3, "api": "csp_KkSs", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
-
+{"key":"港迷","name":"💯港迷┃粤语","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":0,"changeable":0,"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"},
 {"key": "csp_Duopan","name": "🖍︎┃蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key": "Duopan2"},"jar":"./lib/jinenyy.jar"},
 
 
