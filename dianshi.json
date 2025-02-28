@@ -1,5 +1,5 @@
 {
-"spider": "./fty.jar;md5;c4701a89448cfd4b3840d57729772b3b",
+"spider": "./fty.jar;md5;925a350dec8cef32186a919fe28e2fe4",
 
 "sites":[
 
@@ -44,34 +44,28 @@
 
 
  
-{"key": "csp_Duopan","name": "🖍︎┃蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://feimao666.fun",
+{"key": "csp_Duopan","name": "🖍︎蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://feimao666.fun",
           "http://feimao888.fun",
           "http://feimaoai.site",
           "http://www.labi88.sbs"],"url_key": "Duopan2"},"jar":"./lib/PandaQ250227c.jar"},
 
-
-{"key": "csp_Kanke","name": "🛳️┃看客┃影视","type": 3,"api": "csp_Kanke","ext": "http://www.guaziys.com","jar": "./lib/PandaQ250227c.jar"},
-{ "key": "cnflix", "name": "🍭CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
+{"key": "csp_Kanke","name": "🛳️看客┃影视","type": 3,"api": "csp_Kanke","ext": "http://www.guaziys.com","jar": "./lib/PandaQ250227c.jar"},
+{ "key": "cnflix", "name": "🍭CNFLIX┃影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
 {"key": "csp_Jpys", "name": "🌾️金牌┃2K", "type": 3, "searchable": 1, "changeable": 1, "api": "csp_Jpys", "playerType": 1, "filterable": 1, "ext": "", "jar": "./lib/PandaQ250227c.jar"},
-{"key":"api_黑木耳🎯","name":"🎯黑木耳资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
-
+{"key":"api_黑木耳🎯","name":"🎯黑木耳┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 {"key":"Bili","name":"🅱哔哔┃弹幕","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/bilibili.json"}},
 {"key":"csp_七新","name":"🐵七新┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/七新影视.json"},
 {"key":"csp_不卡","name":"🐠不卡┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/真不卡影视.json"},
-{"key":"drpy_js_NY影院","name":"🐾NY影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/NY影院.js"},
-{"key":"drpy_js_飞兔影视","name":"🐯飞兔影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/飞兔影视.js"},
-{"key":"drpy_js_大师兄影视","name":"🔋大师兄影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/大师兄影视.js"},
-{"key":"drpy_js_139影视","name":"🐂139影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/139影视.js"},
-
+{"key":"drpy_js_NY影院","name":"🐾NY┃2K","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/NY影院.js"},
+{"key":"drpy_js_飞兔影视","name":"🐯飞兔┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/飞兔影视.js"},
+{"key":"drpy_js_大师兄影视","name":"🔋大师兄┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/大师兄影视.js"},
+{"key":"drpy_js_139影视","name":"🐂139┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/139影视.js"},
 
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0}
 
 ],
 
 "rules":[{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]}],
-
-
-
 
 "flags":["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"],
 "doh":[
