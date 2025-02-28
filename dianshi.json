@@ -50,14 +50,7 @@
           "http://www.labi88.sbs"],"url_key": "Duopan2"},"jar":"./lib/PandaQ250227c.jar"},
 
 
-{
-  "key": "csp_Kanke",
-  "name": "🛳️┃看客┃影视",
-  "type": 3,
-  "api": "csp_Kanke",
-  "ext": "http://www.guaziys.com",
-  "jar": "./lib/PandaQ250227c.jar"
-},
+{"key": "csp_Kanke","name": "🛳️┃看客┃影视","type": 3,"api": "csp_Kanke","ext": "http://www.guaziys.com","jar": "./lib/PandaQ250227c.jar"},
 { "key": "cnflix", "name": "🍭CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
 {"key": "csp_Jpys", "name": "🌾️金牌┃2K", "type": 3, "searchable": 1, "changeable": 1, "api": "csp_Jpys", "playerType": 1, "filterable": 1, "ext": "", "jar": "./lib/PandaQ250227c.jar"},
 {"key":"api_黑木耳🎯","name":"🎯黑木耳资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
