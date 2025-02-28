@@ -45,17 +45,28 @@
 
 
  
-{"key": "csp_Duopan","name": "🖍︎┃蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key": "Duopan2"},"jar":"./lib/jinenyy.jar"},
+{"key": "csp_Duopan","name": "🖍︎┃蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs"],"url_key": "Duopan2"},"jar":"./lib/PandaQ250227c.jar"},
 
-{ "key": "hipy_guazi", "name": "瓜子┃影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0, "ext": "./瓜子.js" },
-{ "key": "cnflix", "name": "CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
-{"key": "csp_JPYY", "name": "🌾️金牌┃2K", "type": 3, "searchable": 1, "changeable": 1, "api": "csp_Jpyy", "playerType": 1, "filterable": 1, "ext": "", "jar": "./lib/xm.jar"},
+
+{
+  "key": "csp_Kanke",
+  "name": "🛳️┃看客┃影视",
+  "type": 3,
+  "api": "csp_Kanke",
+  "ext": "http://www.guaziys.com",
+  "jar": "./lib/PandaQ250227c.jar"
+},
+{ "key": "cnflix", "name": "🍭CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
+{"key": "csp_Jpys", "name": "🌾️金牌┃2K", "type": 3, "searchable": 1, "changeable": 1, "api": "csp_Jpys", "playerType": 1, "filterable": 1, "ext": "", "jar": "./lib/PandaQ250227c.jar"},
 {"key":"api_黑木耳🎯","name":"🎯黑木耳资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 {"key":"追剧","name":"⏳追剧┃App","type": 3,"api":"csp_AppTT","playerType": 2,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"Bili","name":"🅱哔哔┃弹幕","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/bilibili.json"}},
 {"key":"csp_七新","name":"🐵七新┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/七新影视.json"},
 {"key":"csp_不卡","name":"🐠不卡┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/真不卡影视.json"},
-{"key":"csp_Nongm","name":"🌾️农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn","jar":"./lib/xm.jar"},
+{"key":"csp_Wwys","name":"🌾️农民┃影视","type":3,"api":"csp_Wwys","ext":"https://wwgz.cn","jar":"./lib/PandaQ250227c.jar"},
 {"key":"drpy_js_7喜影院","name":"👒7喜影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/7喜影院.js"},
 {"key":"drpy_js_NY影院","name":"🐾NY影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/NY影院.js"},
 {"key":"drpy_js_飞兔影视","name":"🐯飞兔影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/飞兔影视.js"},
