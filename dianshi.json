@@ -5,7 +5,7 @@
 
 {"key":"豆豆","name":"豆瓣┃推荐","type": 3, "api": "csp_DouDouGuard", "indexs": 1,"searchable": 0,"quickSearch": 0,"filterable": 0},
   
-{"key": "玩偶", "name": "👽玩偶哥哥┃4K弹幕", "type": 3, "api": "csp_WoGGGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto", "siteUrl": "https://www.wogg.one/", "danMu": "弹"}},
+{"key": "玩偶", "name": "👽玩偶哥哥┃4K弹幕", "type": 3, "api": "csp_WoGGGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto", "siteUrl": "https://www.wogg.com/", "danMu": "弹"}},
 {"key": "YGP", "name": "🚀叨观荐影┃预告片", "type": 3, "api": "csp_YGPGuard", "searchable": 0, "quickSearch": 0, "changeable": 0},
 {"key": "alllive", "name": "📽️一直播┃直播", "type": 3, "api": "csp_AllliveGuard", "playerType": 2, "searchable": 0, "quickSearch": 0, "changeable": 0},
 {"key": "抠搜", "name": "🍄抠抠┃搜搜", "type": 3, "api": "csp_KkSsGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
@@ -39,12 +39,6 @@
 
   
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},  
-
-
-{"key": "csp_Duopan","name": "🖍︎蜡笔┃影视","type": 3, "api": "csp_Duopan", "filterable": 1, "ext": {"site_urls": ["https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://feimaoai.site",
-          "http://www.labi88.sbs"],"url_key": "Duopan2"},"jar":"./lib/PandaQ250227c.jar"},
 
 {"key": "csp_Kanke","name": "🛳️看客┃影视","type": 3,"api": "csp_Kanke","ext": "http://www.guaziys.com","jar": "./lib/PandaQ250227c.jar"},
 { "key": "cnflix", "name": "🍭CNFLIX┃影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
