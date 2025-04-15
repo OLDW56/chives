@@ -6,7 +6,7 @@
 {"key":"豆豆","name":"豆瓣┃推荐","type": 3, "api": "csp_DouDouGuard", "indexs": 1,"searchable": 0,"quickSearch": 0,"filterable": 0},
   
 {"key": "玩偶", "name": "👽玩偶哥哥┃4K弹幕", "type": 3, "api": "csp_WoGGGuard", "timeout": 30, "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto", "siteUrl": "https://www.wogg.com/", "danMu": "弹"}},
-{"key": "抠搜", "name": "🍄抠抠┃搜搜", "type": 3, "api": "csp_KkSsGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
+{"key": "抠搜", "name": "🍄抠抠┃老王推荐", "type": 3, "api": "csp_KkSsGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "UC", "name": "🌈优汐┃搜搜", "type": 3, "api": "csp_UuSsGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "原创", "name": "☀原创┃不卡", "type": 3, "api": "csp_YCyzGuard", "timeout": 10, "playerType": 1, "searchable": 1, "quickSearch": 1, "changeable": 1},
 {"key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteAppleGuard", "timeout": 10, "searchable": 1, "quickSearch": 1, "changeable": 1},
@@ -46,7 +46,7 @@
 {"key":"api_黑木耳🎯","name":"🎯黑木耳┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 {"key":"csp_七新","name":"🐵七新┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/七新影视.json"},
 {"key":"csp_不卡","name":"🐠不卡┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/真不卡影视.json"},
-{"key":"drpy_js_NY影院","name":"🐾NY┃2K","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/NY影院.js"},
+{"key":"drpy_js_NY影院","name":"🐾纽约┃2K","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/NY影院.js"},
 {"key":"drpy_js_飞兔影视","name":"🐯飞兔┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/飞兔影视.js"},
 {"key":"drpy_js_大师兄影视","name":"🔋大师兄┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/大师兄影视.js"},
 {"key":"drpy_js_139影视","name":"🐂139┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/139影视.js"}
