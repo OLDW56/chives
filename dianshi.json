@@ -32,13 +32,6 @@
 {"key": "Dm84", "name": "🚌巴士┃动漫", "type": 3, "api": "csp_Dm84Guard", "timeout": 10, "searchable": 1, "quickSearch": 1, "changeable": 1},
 {"key": "Ysj", "name": "🎀异界┃动漫", "type": 3, "api": "csp_YsjGuard", "timeout": 10, "searchable": 1, "quickSearch": 1, "changeable": 1},
 {"key": "Anime1", "name": "🐾日本┃动漫", "type": 3, "api": "csp_Anime1Guard", "timeout": 10, "searchable": 1, "quickSearch": 1, "changeable": 1},
-{"key": "926", "name": "⚽926┃看球", "type": 3, "api": "csp_kanqiu926Guard", "timeout": 10, "searchable": 0, "changeable": 0, "style": {"type": "list"}},
-{"key": "88", "name": "⚽88┃看球", "type": 3, "api": "csp_Sir88Guard", "timeout": 10, "searchable": 0, "changeable": 0, "style": {"type": "list"}},
-{"key": "看球", "name": "⚽看球┃直播", "type": 3, "api": "csp_KanqiuGuard", "timeout": 10, "searchable": 0, "changeable": 0, "style": {"type": "list"}},
-{"key": "Jrsjs", "name": "⚽ Jrs┃球迷", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/jrk.js", "style": {"type": "list"}, "timeout": 10, "searchable": 0, "quickSearch": 0, "changeable": 0},
-{"key": "酷奇", "name": "🎤酷奇┃MV", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/酷奇MV.js", "style": {"type": "rect", "ratio": 1.597}, "timeout": 10, "searchable": 0, "quickSearch": 0, "changeable": 0},
-{"key": "MTV", "name": "🎧明星┃MV", "type": 3, "api": "csp_BiliGuard", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": {"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"}},
-{"key": "dr_兔小贝", "name": "📚儿童┃启蒙", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/兔小贝.js", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0},
 {"key": "YpanSo", "name": "🐟盘她┃三盘", "type": 3, "api": "csp_YpanSoGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "xzso", "name": "👻盘它┃三盘", "type": 3, "api": "csp_XzsoGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "米搜", "name": "🦋米搜┃夸父", "type": 3, "api": "csp_MIPanSoGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
@@ -46,18 +39,12 @@
 {"key": "Aliso", "name": "🙀盘搜┃阿狸", "type": 3, "api": "csp_PanSearchGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "YiSo", "name": "😹易搜┃阿狸", "type": 3, "api": "csp_YiSoGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
 {"key": "push_agent", "name": "🛴手机┃推送", "type": 3, "api": "csp_PushGuard", "searchable": 0, "quickSearch": 0, "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto"}},
-{"key": "Bili", "name": "🅱哔哔合集┃弹幕", "type": 3, "api": "csp_BiliGuard", "style": {"type": "rect", "ratio": 1.597}, "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": {"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"}},
-
-
-
 
 
 
 
 { "key": "cnflix", "name": "🍭CNFLIX┃影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
-
 {"key":"api_黑木耳🎯","name":"🎯黑木耳┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
-{"key":"Bili","name":"🅱哔哔┃弹幕","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/bilibili.json"}},
 {"key":"csp_七新","name":"🐵七新┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/七新影视.json"},
 {"key":"csp_不卡","name":"🐠不卡┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/真不卡影视.json"},
 {"key":"drpy_js_NY影院","name":"🐾NY┃2K","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/NY影院.js"},
@@ -80,21 +67,22 @@
 ],
 
 
-"lives": [
-   {
-      "name": "牛播一（仅新版影视仓/ok影视）",
+ "lives": [
+    {
+      "name": "牛播一（仅新版影视仓┃ok影视）",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-      "playerType": 1,
+      "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
-   {
-      "name": "平台直播",
+    {
+      "name": "V4聚合（卡顿请按左┃右键换线）",
       "type": 0,
-      "url": "http://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
-      "playerType": 2
+      "url": "./lib/tv.m3u",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
     }
   ]
 
