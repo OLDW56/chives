@@ -56,15 +56,7 @@
 
 
 
- "lives": [
-   {
-      "name": "V4肥羊",
-      "type": 0,
-      "url": "./lib/juhe_42636_b9e159834f.txt",
-      "playerType": 2,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
+"lives": [
     {
       "name": "V6范明明（需开启V6网络）",
       "type": 0,
@@ -86,14 +78,8 @@
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
-      "name": "平台直播",
-      "type": 0,
-      "url": "http://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
-      "playerType": 2
     }
+   
   ]
 
 }
