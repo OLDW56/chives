@@ -501,7 +501,7 @@
     {"key":"csp_不卡","name":"🐠不卡┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/真不卡影视.json"},
     {"key":"drpy_js_NY影院","name":"🐾纽约┃推荐","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/NY影院.js"},
 
-    {"key": "drpy_js_B站影视","name": "B站┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/B站影视.js"},
+    {"key": "drpy_js_B站影视","name": "🅱B站┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/B站影视.js"},
     {"key":"drpy_js_飞兔影视","name":"🐯飞兔┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/飞兔影视.js"},
     {"key":"drpy_js_大师兄影视","name":"🔋大师兄┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/大师兄影视.js"},
     {"key":"drpy_js_139影视","name":"🐂139┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/139影视.js"}
