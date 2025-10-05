@@ -1,6 +1,5 @@
 {
 "spider": "./fty.jar;md5;f6dd09061793aa1f499be0ffebaf5f67",
-
 "sites":[
 
     {"key":"豆豆","name":"豆瓣┃推荐","type": 3, "api": "csp_DouDouGuard", "indexs": 1,"searchable": 0,"quickSearch": 0,"filterable": 0},
