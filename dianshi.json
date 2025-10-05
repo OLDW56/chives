@@ -592,7 +592,7 @@
       "ext": {
         "json": "./lib/c66a4b5356141c49fd45ec51568017b4.txt"
       }
-    }
+    },
     
     { "key": "cnflix", "name": "🍭CNFLIX┃推荐", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
     {"key":"api_黑木耳🎯","name":"🎯黑木耳┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
