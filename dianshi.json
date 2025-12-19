@@ -1,5 +1,5 @@
 {
-"spider": "./fty.jar;md5;03d768a3fcf8c977d6ce5db0f6405661",
+"spider": "./fty.jar;md5;b193ac42935106726430b09785566f60",
 "sites":[
 
     {"key":"豆豆","name":"豆瓣┃推荐","type": 3, "api": "csp_DouDouGuard", "indexs": 1,"searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -43,23 +43,23 @@
     },
     {
       "key": "alllive",
-      "name": "📽️一直播┃直播",
+      "name": "🎮一直播┃直播",
       "type": 3,
       "api": "csp_AllliveGuard",
-      "playerType": 2,
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "uqGL1fpJNAUH7axYx5bf4OWuvyk="
     },
     {
       "key": "seed",
       "name": "💡聚剧剧┃三盘",
       "type": 3,
       "api": "csp_SeedhubGuard",
-      "changeable": 0,
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "indexs": 0,
       "style": {
         "type": "list"
@@ -70,7 +70,7 @@
       "name": "🌟立播┃秒播",
       "type": 3,
       "api": "csp_LibvioGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -80,11 +80,21 @@
       }
     },
     {
+      "key": "奶酪",
+      "name": "🧀奶酪┃秒播",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+    },
+    {
       "key": "厂长",
       "name": "📔厂长┃秒播",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "timeout": 15,
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -95,7 +105,7 @@
       "name": "🍎苹果┃秒播",
       "type": 3,
       "api": "csp_LiteAppleGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -105,7 +115,7 @@
       "name": "💮文采┃秒播",
       "type": 3,
       "api": "csp_JpysGuard",
-      "timeout": 15,
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -116,7 +126,7 @@
       "name": "☀原创┃秒播",
       "type": 3,
       "api": "csp_YCyzGuard",
-      "timeout": 30,
+      "timeout": 15,
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -127,60 +137,27 @@
       "name": "🍄比特┃秒播",
       "type": 3,
       "api": "csp_BttwooGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "低端",
-      "name": "⏮️低端┃外剧",
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
       "type": 3,
-      "api": "csp_DdrkGuard",
-      "timeout": 15,
-      "playerType": "2",
+      "api": "csp_JqqGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "下饭",
-      "name": "🍙下饭┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCP2Jl7r3FGDx3lYjd0UDop6mF1H7BIBQDdY7r2sGVAP3S/L0ixe/EshP2U8oWDL+PmnkkcZKQZ475TAVSug/QPVeNQ=="
-    },
-    {
-      "key": "鲸鱼",
-      "name": "👀鲸鱼┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="
-    },
-    {
-      "key": "欢视",
-      "name": "👓欢视┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT9fFAy5mE5qU="
     },
     {
       "key": "热播",
       "name": "📺热播┃多线",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "timeout": 15,
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -188,15 +165,48 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
-      "key": "红豆",
-      "name": "🍊红豆┃多线",
+      "key": "下饭",
+      "name": "🍙下饭┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
+      "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+    },
+    {
+      "key": "猫猫",
+      "name": "🐟猫猫┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwtCFsub0/WmdmYi/k2NkJsm7Vk4dJQZft2UtrrwhKK52i/dDilKkU5Nz+V0bwkYsVuU="
+    },
+    {
+      "key": "鲸鱼",
+      "name": "👀鲸鱼┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
+    },
+    {
+      "key": "橘子",
+      "name": "🍊橘子┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
     },
     {
       "key": "糯米",
@@ -213,7 +223,7 @@
       "name": "🏝奥特┃多线",
       "type": 3,
       "api": "csp_AueteGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -223,7 +233,7 @@
       "name": "🐭荐片┃P2P",
       "type": 3,
       "api": "csp_JPJGuard",
-      "timeout": 15,
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -234,7 +244,7 @@
       "name": "🧲新6V┃磁力",
       "type": 3,
       "api": "csp_SixVGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -245,17 +255,7 @@
       "name": "🚌巴士┃动漫",
       "type": 3,
       "api": "csp_Dm84Guard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Ysj",
-      "name": "🎀异界┃动漫",
-      "type": 3,
-      "api": "csp_YsjGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -265,7 +265,7 @@
       "name": "🐾日本┃动漫",
       "type": 3,
       "api": "csp_Anime1Guard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -288,7 +288,7 @@
       "name": "⚽88┃看球",
       "type": 3,
       "api": "csp_Sir88Guard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -300,14 +300,42 @@
       "name": "⚽手机┃看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "list"
       }
     },
-   
+    {
+      "key": "MTV1",
+      "name": "🎙️易听┃音乐",
+      "type": 3,
+      "api": "csp_MusicGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "MTV",
+      "name": "🎶明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "./lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+      }
+    },
     {
       "key": "有声小说",
       "name": "🎧有声┃小说",
@@ -335,22 +363,6 @@
       }
     },
     {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "ext": "./lib/huya2.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "timeout": 15,
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
@@ -360,7 +372,7 @@
         "type": "rect",
         "ratio": 1.755
       },
-      "timeout": 15,
+      "timeout": 10,
       "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
@@ -403,7 +415,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "yisouCookie": "150e5bb8-401e-4f1f-b74e-7fd5f8bd6dea"
+        "yiSoCookie": "satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"
       }
     },
     {
@@ -445,6 +457,7 @@
         "from": "4k|auto"
       }
     },
+    
     {
       "key": "push_agent",
       "name": "🛴手机┃推送",
