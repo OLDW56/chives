@@ -472,7 +472,7 @@
     },
     {
       "key": "潮流",
-      "name": "潮流┃影视",
+      "name": "🏜┃潮流┃APP",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -502,7 +502,7 @@
     },
     {
       "key": "肥猫",
-      "name": "肥猫┃APP",
+      "name": "🐼肥猫┃APP",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -517,7 +517,7 @@
     },
     {
       "key": "行动",
-      "name": "行动┃APP",
+      "name": "😌行动┃APP",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -532,7 +532,7 @@
     },
     {
       "key": "仓鼠",
-      "name": "耗子┃APP",
+      "name": "🐹耗子┃APP",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -547,7 +547,7 @@
     },
     {
       "key": "蔬菜",
-      "name": "蔬菜┃APP",
+      "name": "🫛蔬菜┃APP",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -577,7 +577,7 @@
     },
     {
       "key": "金牌",
-      "name": "金牌┃影视",
+      "name": "🥇️金牌┃影视",
       "type": 3,
       "api": "csp_Jpys",
       "searchable": 1,
@@ -633,7 +633,7 @@
     },
     {
       "key": "火火",
-      "name": "火火┃影视",
+      "name": "🔥火火┃影视",
       "type": 3,
       "api": "csp_SaoHuo",
       "searchable": 1,
@@ -643,7 +643,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "瓜子┃影视",
+      "name": "🍉瓜子┃影视",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
