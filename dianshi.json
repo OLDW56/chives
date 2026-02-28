@@ -308,35 +308,6 @@
       }
     },
     {
-      "key": "MTV1",
-      "name": "🎙️易听┃音乐",
-      "type": 3,
-      "api": "csp_MusicGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "MTV",
-      "name": "🎶明星┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
-      }
-    },
-    {
       "key": "有声小说",
       "name": "🎧有声┃小说",
       "type": 3,
@@ -472,7 +443,7 @@
     },
     {
       "key": "潮流",
-      "name": "🏜┃潮流┃APP",
+      "name": "🏜潮流┃APP",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -482,7 +453,7 @@
     },
     {
       "key": "梦回",
-      "name": "梦回┃影视",
+      "name": "🏔️梦回┃影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -492,7 +463,7 @@
     },
     {
       "key": "星辉",
-      "name": "星辉┃影视",
+      "name": "🏭星辉┃影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -562,7 +533,7 @@
     },
     {
       "key": "黑猫",
-      "name": "黑猫┃APP",
+      "name": "🐱黑猫┃APP",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -586,7 +557,7 @@
     },
     {
       "key": "csp_Wwys",
-      "name": "农民┃影视",
+      "name": "🌾️农民┃影视",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -596,7 +567,7 @@
     },
     {
       "key": "鸭梨",
-      "name": "鸭梨┃影视",
+      "name": "🍚鸭梨┃影视",
       "type": 3,
       "api": "csp_KmeiJu",
       "searchable": 1,
@@ -605,7 +576,7 @@
     },
     {
       "key": "csp_Xlys",
-      "name": "修罗┃磁力",
+      "name": "🥣修罗┃磁力",
       "type": 3,
       "api": "csp_Xlys",
       "searchable": 1,
@@ -615,7 +586,7 @@
     },
     {
       "key": "csp_Tvyb",
-      "name": "云播┃影视",
+      "name": "♾️云播┃影视",
       "type": 3,
       "api": "csp_Tvyb",
       "searchable": 1,
@@ -624,7 +595,7 @@
     },
     {
       "key": "csp_Qiyou",
-      "name": "奇优┃影视",
+      "name": "💯奇优┃影视",
       "type": 3,
       "api": "csp_Qiyou",
       "searchable": 1,
@@ -652,7 +623,7 @@
     },
     {
       "key": "猎手影视",
-      "name": "猎手┃影视",
+      "name": "🎬猎手┃影视",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
       "searchable": 1,
@@ -660,7 +631,7 @@
     },
     {
       "key": "星牙",
-      "name": "星牙┃短剧",
+      "name": "☁️星牙┃短剧",
       "type": 3,
       "api": "csp_AppXY",
       "searchable": 1,
@@ -668,8 +639,8 @@
       "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
     },
     
-    {"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://feimao666.fun","http://feimao888.fun","http://feimaoai.site","http://www.labi88.sbs","http://fmao.site","http://fmao.shop","http://xiaocge.fun"],"threadinfo":{"chunksize":512,"threads":16},"url_key":"Duopan2"},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/PandaQ250828.jpg"},
-    {"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://xiaomi666.fun","https://xiaomiai.site","https://mihdr.top","https://www.mihdr.top","http://www.miqk.cc","https://www.zhizhenpan.fun"],"url_key":"Netfixtv2","threadinfo":{"chunksize":512,"threads":16}},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/PandaQ250828.jpg"},
+    {"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://feimao666.fun","http://feimao888.fun","http://feimaoai.site","http://www.labi88.sbs","http://fmao.site","http://fmao.shop","http://xiaocge.fun"],"threadinfo":{"chunksize":512,"threads":16},"url_key":"Duopan2"},"jar":"./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"},
+    {"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://xiaomi666.fun","https://xiaomiai.site","https://mihdr.top","https://www.mihdr.top","http://www.miqk.cc","https://www.zhizhenpan.fun"],"url_key":"Netfixtv2","threadinfo":{"chunksize":512,"threads":16}},"jar":"./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"},
     {"key": "cnflix", "name": "🍭CNFLIX┃推荐", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
     {"key":"api_黑木耳🎯","name":"🎯黑木耳┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
     {"key":"csp_七新","name":"🐵七新┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/七新影视.json"},
