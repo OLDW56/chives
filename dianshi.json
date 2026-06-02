@@ -40,34 +40,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "MTV1",
-      "name": "🎙️易听音乐┃带歌词",
-      "type": 3,
-      "api": "csp_MusicGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "seed",
-      "name": "💡聚剧剧┃四盘",
-      "type": 3,
-      "api": "csp_SeedhubGuard",
-      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+    
     {
       "key": "ZPan",
       "name": "🎈聚盘搜┃四盘",
@@ -314,22 +287,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "MTV",
-      "name": "🎶明星┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
-      }
-    },
+    
     {
       "key": "有声小说",
       "name": "🎧有声┃小说",
@@ -459,38 +417,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
     },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/0075389dca9afadd4614e9713765ff17.txt"
-      }
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔演唱会┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/6496356286589c68f52c2f99c0c674c7.txt"
-      }
-    },
+    
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
@@ -727,12 +654,6 @@
       "filterable": 1,
       "ext": "https://www.czzy89.com"
     },
-
-
-    
-    
-    
-    
 
 
     
