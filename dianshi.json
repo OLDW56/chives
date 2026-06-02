@@ -319,9 +319,7 @@
         "type": "list"
       }
     },
-<<<<<<< HEAD
     
-=======
     {
       "key": "看球",
       "name": "⚽手机┃看球",
@@ -334,23 +332,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "MTV",
-      "name": "🎶明星┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
-      }
-    },
->>>>>>> parent of e55ae27 (Update print statement from 'Hello' to 'Goodbye')
+    
     {
       "key": "有声小说",
       "name": "🎧有声┃小说",
@@ -478,139 +460,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-<<<<<<< HEAD
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
-    },
-    
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/89370c8ddf36b5e1beb4d71adb921bda.txt"
-      }
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
-      }
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/8f55d520f8d70056695740ef151744a7.txt"
-      }
-    },
-    /*###############################################*/
-    {
-      "key": "csp_FeiMaoUC",
-      "name": "⚡┃闪电┃优汐",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://shandian.blog/",
-          "http://sd.sduc.site/"
-        ],
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        },
-        "url_key": "FeiMaoUC"
-      }
-    },
-    {
-      "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://xiaocge.fun",
-          "http://feimo.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocgege.shop",
-          "http://www.xiaocgege.shop"
-        ],
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        },
-        "url_key": "Duopan2"
-      }
-    },
-    {
-      "key": "csp_Netfixtv",
-      "name": "💌┃️至臻┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://pan.mihdr.top",
-          "https://www.zhizhen1.top",
-          "https://www.mihdr.top",
-          "https://www.miqk.cc",
-          "https://www.zhizhenpan.com",
-          "https://www.zhizhen8.click"
-        ],
-        "url_key": "Netfixtv2",
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        }
-=======
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
->>>>>>> parent of e55ae27 (Update print statement from 'Hello' to 'Goodbye')
       }
     },
     {
@@ -621,7 +472,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://v.rbotv.cn",
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "梦回",
@@ -631,7 +482,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://v.lkuys.cn",
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "星辉",
@@ -641,7 +492,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://tt.ysdqjs.cn",
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "肥猫",
@@ -656,7 +507,7 @@
         "siteApi": "get",
         "version": "201"
       },
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "行动",
@@ -671,7 +522,7 @@
         "siteApi": "get",
         "version": "304"
       },
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "仓鼠",
@@ -686,7 +537,7 @@
         "siteApi": "qiji",
         "version": ""
       },
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "蔬菜",
@@ -701,7 +552,7 @@
         "siteApi": "get",
         "version": "140"
       },
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "黑猫",
@@ -716,7 +567,7 @@
         "siteApi": "get",
         "version": "203"
       },
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "金牌",
@@ -725,7 +576,7 @@
       "api": "csp_Jpys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "csp_Wwys",
@@ -735,7 +586,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://www.wwgz.cn",
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "鸭梨",
@@ -744,7 +595,7 @@
       "api": "csp_KmeiJu",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "csp_Xlys",
@@ -754,7 +605,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://xl01.com.de",
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "csp_Tvyb",
@@ -763,7 +614,7 @@
       "api": "csp_Tvyb",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "csp_Qiyou",
@@ -772,7 +623,7 @@
       "api": "csp_Qiyou",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "火火",
@@ -782,7 +633,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://shdy5.us",
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "csp_Gz360",
@@ -791,7 +642,7 @@
       "api": "csp_Gz360",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
     {
       "key": "猎手影视",
@@ -808,17 +659,23 @@
       "api": "csp_AppXY",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
     },
-<<<<<<< HEAD
+    {
+      "key": "csp_Wwys",
+      "name": "🌾️┃农民┃影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200",
+      "jar": "./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+      
+    },
 
 
     
-=======
     
-    {"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://feimao666.fun","http://feimao888.fun","http://feimaoai.site","http://www.labi88.sbs","http://fmao.site","http://fmao.shop","http://xiaocge.fun"],"threadinfo":{"chunksize":512,"threads":16},"url_key":"Duopan2"},"jar":"./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"},
-    {"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://xiaomi666.fun","https://xiaomiai.site","https://mihdr.top","https://www.mihdr.top","http://www.miqk.cc","https://www.zhizhenpan.fun"],"url_key":"Netfixtv2","threadinfo":{"chunksize":512,"threads":16}},"jar":"./lib/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"},
->>>>>>> parent of e55ae27 (Update print statement from 'Hello' to 'Goodbye')
+    {"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://feimao666.fun","http://feimao888.fun","http://feimaoai.site","http://www.labi88.sbs","http://fmao.site","http://fmao.shop","http://xiaocge.fun"],"threadinfo":{"chunksize":512,"threads":16},"url_key":"Duopan2"},"jar":"./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"},
+    {"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://xiaomi666.fun","https://xiaomiai.site","https://mihdr.top","https://www.mihdr.top","http://www.miqk.cc","https://www.zhizhenpan.fun"],"url_key":"Netfixtv2","threadinfo":{"chunksize":512,"threads":16}},"jar":"./lib/feimao0731.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"},
     {"key": "cnflix", "name": "🍭CNFLIX┃推荐", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60,"jar":"./lib/pg316.jar", "ext": "./lib/cnflix.json" }, 
     {"key":"api_黑木耳🎯","name":"🎯黑木耳┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./lib/api黑木耳.json","jar":"./lib/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
     {"key":"csp_七新","name":"🐵七新┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/HCCX.jar","ext":"./lib/七新影视.json"},
