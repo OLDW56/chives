@@ -1,2 +1,3 @@
 clan://localhost/tvbox/fty/dianshi.json
 https://raw.githubusercontent.com/OLDW56/chives/main/dianshi.json
+http
